@@ -1,0 +1,268 @@
+2021-11-21 09:05:25,276:INFO:PyCaret NLP Module
+2021-11-21 09:05:25,276:INFO:version 2.3.5
+2021-11-21 09:05:25,276:INFO:Initializing setup()
+2021-11-21 09:05:25,276:INFO:USI: 5cf7
+2021-11-21 09:05:25,276:INFO:setup(data=(1000, 7), target=en, custom_stopwords=None, html=True, session_id=123, log_experiment=False,
+                    experiment_name=None, log_plots=False, log_data=False, verbose=True)
+2021-11-21 09:05:25,276:INFO:Checking environment
+2021-11-21 09:05:25,276:INFO:python_version: 3.8.12
+2021-11-21 09:05:25,276:INFO:python_build: ('default', 'Oct 12 2021 06:23:56')
+2021-11-21 09:05:25,276:INFO:machine: x86_64
+2021-11-21 09:05:25,276:INFO:platform: macOS-10.16-x86_64-i386-64bit
+2021-11-21 09:05:25,277:WARNING:cannot find psutil installation. memory not traceable. Install psutil using pip to enable memory logging. 
+2021-11-21 09:05:25,277:INFO:Checking libraries
+2021-11-21 09:05:25,277:INFO:pd==1.3.4
+2021-11-21 09:05:25,277:INFO:numpy==1.21.2
+2021-11-21 09:05:41,000:INFO:gensim==3.8.3
+2021-11-21 09:05:41,199:INFO:spacy==2.3.7
+2021-11-21 09:05:43,061:INFO:nltk==3.6.5
+2021-11-21 09:05:43,078:INFO:textblob==0.17.1
+2021-11-21 09:05:44,113:INFO:pyLDAvis==3.2.2
+2021-11-21 09:05:44,229:INFO:wordcloud==1.8.1
+2021-11-21 09:05:44,464:INFO:mlflow==1.21.0
+2021-11-21 09:05:44,464:INFO:Checking Exceptions
+2021-11-21 09:06:14,812:INFO:PyCaret NLP Module
+2021-11-21 09:06:14,813:INFO:version 2.3.5
+2021-11-21 09:06:14,814:INFO:Initializing setup()
+2021-11-21 09:06:14,815:INFO:USI: 3117
+2021-11-21 09:06:14,815:INFO:setup(data=(1000, 7), target=en, custom_stopwords=None, html=True, session_id=123, log_experiment=False,
+                    experiment_name=None, log_plots=False, log_data=False, verbose=True)
+2021-11-21 09:06:14,816:INFO:Checking environment
+2021-11-21 09:06:14,817:INFO:python_version: 3.8.12
+2021-11-21 09:06:14,818:INFO:python_build: ('default', 'Oct 12 2021 06:23:56')
+2021-11-21 09:06:14,818:INFO:machine: x86_64
+2021-11-21 09:06:14,819:INFO:platform: macOS-10.16-x86_64-i386-64bit
+2021-11-21 09:06:14,821:WARNING:cannot find psutil installation. memory not traceable. Install psutil using pip to enable memory logging. 
+2021-11-21 09:06:14,822:INFO:Checking libraries
+2021-11-21 09:06:14,822:INFO:pd==1.3.4
+2021-11-21 09:06:14,823:INFO:numpy==1.21.2
+2021-11-21 09:06:14,824:INFO:gensim==3.8.3
+2021-11-21 09:06:14,825:INFO:spacy==2.3.7
+2021-11-21 09:06:14,826:INFO:nltk==3.6.5
+2021-11-21 09:06:14,827:INFO:textblob==0.17.1
+2021-11-21 09:06:14,828:INFO:pyLDAvis==3.2.2
+2021-11-21 09:06:14,828:INFO:wordcloud==1.8.1
+2021-11-21 09:06:14,829:INFO:mlflow==1.21.0
+2021-11-21 09:06:14,830:INFO:Checking Exceptions
+2021-11-21 09:06:16,512:INFO:Initializing create_model()
+2021-11-21 09:06:16,513:INFO:create_model(model=lda, multi_core=False, num_topics=None, verbose=True, system=True)
+2021-11-21 09:06:16,514:INFO:Checking exceptions
+2021-11-21 09:06:16,515:INFO:Preloading libraries
+2021-11-21 09:06:16,580:INFO:Preparing display monitor
+2021-11-21 09:06:26,069:INFO:PyCaret NLP Module
+2021-11-21 09:06:26,070:INFO:version 2.3.5
+2021-11-21 09:06:26,070:INFO:Initializing setup()
+2021-11-21 09:06:26,071:INFO:USI: 1557
+2021-11-21 09:06:26,072:INFO:setup(data=(1000, 7), target=en, custom_stopwords=None, html=True, session_id=123, log_experiment=False,
+                    experiment_name=None, log_plots=False, log_data=False, verbose=True)
+2021-11-21 09:06:26,073:INFO:Checking environment
+2021-11-21 09:06:26,073:INFO:python_version: 3.8.12
+2021-11-21 09:06:26,074:INFO:python_build: ('default', 'Oct 12 2021 06:23:56')
+2021-11-21 09:06:26,074:INFO:machine: x86_64
+2021-11-21 09:06:26,075:INFO:platform: macOS-10.16-x86_64-i386-64bit
+2021-11-21 09:06:26,077:WARNING:cannot find psutil installation. memory not traceable. Install psutil using pip to enable memory logging. 
+2021-11-21 09:06:26,078:INFO:Checking libraries
+2021-11-21 09:06:26,079:INFO:pd==1.3.4
+2021-11-21 09:06:26,080:INFO:numpy==1.21.2
+2021-11-21 09:06:26,081:INFO:gensim==3.8.3
+2021-11-21 09:06:26,082:INFO:spacy==2.3.7
+2021-11-21 09:06:26,084:INFO:nltk==3.6.5
+2021-11-21 09:06:26,085:INFO:textblob==0.17.1
+2021-11-21 09:06:26,087:INFO:pyLDAvis==3.2.2
+2021-11-21 09:06:26,088:INFO:wordcloud==1.8.1
+2021-11-21 09:06:26,089:INFO:mlflow==1.21.0
+2021-11-21 09:06:26,090:INFO:Checking Exceptions
+2021-11-21 09:11:51,568:INFO:PyCaret NLP Module
+2021-11-21 09:11:51,569:INFO:version 2.3.5
+2021-11-21 09:11:51,570:INFO:Initializing setup()
+2021-11-21 09:11:51,571:INFO:USI: 4353
+2021-11-21 09:11:51,572:INFO:setup(data=(1000, 7), target=en, custom_stopwords=None, html=True, session_id=123, log_experiment=False,
+                    experiment_name=None, log_plots=False, log_data=False, verbose=True)
+2021-11-21 09:11:51,572:INFO:Checking environment
+2021-11-21 09:11:51,573:INFO:python_version: 3.8.12
+2021-11-21 09:11:51,573:INFO:python_build: ('default', 'Oct 12 2021 06:23:56')
+2021-11-21 09:11:51,574:INFO:machine: x86_64
+2021-11-21 09:11:51,574:INFO:platform: macOS-10.16-x86_64-i386-64bit
+2021-11-21 09:11:51,576:WARNING:cannot find psutil installation. memory not traceable. Install psutil using pip to enable memory logging. 
+2021-11-21 09:11:51,577:INFO:Checking libraries
+2021-11-21 09:11:51,578:INFO:pd==1.3.4
+2021-11-21 09:11:51,578:INFO:numpy==1.21.2
+2021-11-21 09:11:51,579:INFO:gensim==3.8.3
+2021-11-21 09:11:51,580:INFO:spacy==2.3.7
+2021-11-21 09:11:51,581:INFO:nltk==3.6.5
+2021-11-21 09:11:51,582:INFO:textblob==0.17.1
+2021-11-21 09:11:51,582:INFO:pyLDAvis==3.2.2
+2021-11-21 09:11:51,583:INFO:wordcloud==1.8.1
+2021-11-21 09:11:51,584:INFO:mlflow==1.21.0
+2021-11-21 09:11:51,585:INFO:Checking Exceptions
+2021-11-21 09:12:41,557:INFO:PyCaret NLP Module
+2021-11-21 09:12:41,558:INFO:version 2.3.5
+2021-11-21 09:12:41,559:INFO:Initializing setup()
+2021-11-21 09:12:41,559:INFO:USI: 14f0
+2021-11-21 09:12:41,560:INFO:setup(data=(1000, 7), target=en, custom_stopwords=None, html=True, session_id=123, log_experiment=False,
+                    experiment_name=None, log_plots=False, log_data=False, verbose=True)
+2021-11-21 09:12:41,561:INFO:Checking environment
+2021-11-21 09:12:41,561:INFO:python_version: 3.8.12
+2021-11-21 09:12:41,562:INFO:python_build: ('default', 'Oct 12 2021 06:23:56')
+2021-11-21 09:12:41,562:INFO:machine: x86_64
+2021-11-21 09:12:41,563:INFO:platform: macOS-10.16-x86_64-i386-64bit
+2021-11-21 09:12:41,565:WARNING:cannot find psutil installation. memory not traceable. Install psutil using pip to enable memory logging. 
+2021-11-21 09:12:41,566:INFO:Checking libraries
+2021-11-21 09:12:41,567:INFO:pd==1.3.4
+2021-11-21 09:12:41,568:INFO:numpy==1.21.2
+2021-11-21 09:12:41,581:INFO:gensim==3.8.3
+2021-11-21 09:12:41,582:INFO:spacy==2.3.7
+2021-11-21 09:12:41,583:INFO:nltk==3.6.5
+2021-11-21 09:12:41,584:INFO:textblob==0.17.1
+2021-11-21 09:12:41,586:INFO:pyLDAvis==3.2.2
+2021-11-21 09:12:41,587:INFO:wordcloud==1.8.1
+2021-11-21 09:12:41,589:INFO:mlflow==1.21.0
+2021-11-21 09:12:41,591:INFO:Checking Exceptions
+2021-11-21 09:15:22,827:INFO:PyCaret NLP Module
+2021-11-21 09:15:22,828:INFO:version 2.3.5
+2021-11-21 09:15:22,829:INFO:Initializing setup()
+2021-11-21 09:15:22,830:INFO:USI: 94a9
+2021-11-21 09:15:22,831:INFO:setup(data=(1000, 7), target=en, custom_stopwords=None, html=True, session_id=123, log_experiment=False,
+                    experiment_name=None, log_plots=False, log_data=False, verbose=True)
+2021-11-21 09:15:22,832:INFO:Checking environment
+2021-11-21 09:15:22,834:INFO:python_version: 3.8.12
+2021-11-21 09:15:22,835:INFO:python_build: ('default', 'Oct 12 2021 06:23:56')
+2021-11-21 09:15:22,836:INFO:machine: x86_64
+2021-11-21 09:15:22,837:INFO:platform: macOS-10.16-x86_64-i386-64bit
+2021-11-21 09:15:22,844:WARNING:cannot find psutil installation. memory not traceable. Install psutil using pip to enable memory logging. 
+2021-11-21 09:15:22,845:INFO:Checking libraries
+2021-11-21 09:15:22,847:INFO:pd==1.3.4
+2021-11-21 09:15:22,848:INFO:numpy==1.21.2
+2021-11-21 09:15:22,849:INFO:gensim==3.8.3
+2021-11-21 09:15:22,851:INFO:spacy==2.3.7
+2021-11-21 09:15:22,852:INFO:nltk==3.6.5
+2021-11-21 09:15:22,853:INFO:textblob==0.17.1
+2021-11-21 09:15:22,855:INFO:pyLDAvis==3.2.2
+2021-11-21 09:15:22,856:INFO:wordcloud==1.8.1
+2021-11-21 09:15:22,857:INFO:mlflow==1.21.0
+2021-11-21 09:15:22,858:INFO:Checking Exceptions
+2021-11-21 09:16:58,687:INFO:PyCaret NLP Module
+2021-11-21 09:16:58,688:INFO:version 2.3.5
+2021-11-21 09:16:58,689:INFO:Initializing setup()
+2021-11-21 09:16:58,690:INFO:USI: 978f
+2021-11-21 09:16:58,690:INFO:setup(data=(1000, 7), target=en, custom_stopwords=None, html=True, session_id=123, log_experiment=False,
+                    experiment_name=None, log_plots=False, log_data=False, verbose=True)
+2021-11-21 09:16:58,691:INFO:Checking environment
+2021-11-21 09:16:58,691:INFO:python_version: 3.8.12
+2021-11-21 09:16:58,692:INFO:python_build: ('default', 'Oct 12 2021 06:23:56')
+2021-11-21 09:16:58,693:INFO:machine: x86_64
+2021-11-21 09:16:58,693:INFO:platform: macOS-10.16-x86_64-i386-64bit
+2021-11-21 09:16:59,432:INFO:Memory: svmem(total=17179869184, available=6666842112, percent=61.2, used=9930862592, free=15794176, active=6654377984, inactive=6647738368, wired=3276484608)
+2021-11-21 09:16:59,434:INFO:Physical Core: 4
+2021-11-21 09:16:59,435:INFO:Logical Core: 8
+2021-11-21 09:16:59,436:INFO:Checking libraries
+2021-11-21 09:16:59,437:INFO:pd==1.3.4
+2021-11-21 09:16:59,439:INFO:numpy==1.21.2
+2021-11-21 09:16:59,440:INFO:gensim==3.8.3
+2021-11-21 09:16:59,442:INFO:spacy==2.3.7
+2021-11-21 09:16:59,443:INFO:nltk==3.6.5
+2021-11-21 09:16:59,444:INFO:textblob==0.17.1
+2021-11-21 09:16:59,445:INFO:pyLDAvis==3.2.2
+2021-11-21 09:16:59,447:INFO:wordcloud==1.8.1
+2021-11-21 09:16:59,448:INFO:mlflow==1.21.0
+2021-11-21 09:16:59,449:INFO:Checking Exceptions
+2021-11-21 09:21:15,513:INFO:PyCaret NLP Module
+2021-11-21 09:21:15,515:INFO:version 2.3.5
+2021-11-21 09:21:15,520:INFO:Initializing setup()
+2021-11-21 09:21:15,523:INFO:USI: a627
+2021-11-21 09:21:15,529:INFO:setup(data=(1000, 7), target=en, custom_stopwords=None, html=True, session_id=123, log_experiment=False,
+                    experiment_name=None, log_plots=False, log_data=False, verbose=True)
+2021-11-21 09:21:15,531:INFO:Checking environment
+2021-11-21 09:21:15,534:INFO:python_version: 3.8.12
+2021-11-21 09:21:15,537:INFO:python_build: ('default', 'Oct 12 2021 06:23:56')
+2021-11-21 09:21:15,543:INFO:machine: x86_64
+2021-11-21 09:21:15,547:INFO:platform: macOS-10.16-x86_64-i386-64bit
+2021-11-21 09:21:15,552:INFO:Memory: svmem(total=17179869184, available=6637142016, percent=61.4, used=9833488384, free=208949248, active=6432342016, inactive=6415888384, wired=3401146368)
+2021-11-21 09:21:15,553:INFO:Physical Core: 4
+2021-11-21 09:21:15,554:INFO:Logical Core: 8
+2021-11-21 09:21:15,555:INFO:Checking libraries
+2021-11-21 09:21:15,556:INFO:pd==1.3.4
+2021-11-21 09:21:15,557:INFO:numpy==1.21.2
+2021-11-21 09:21:15,559:INFO:gensim==3.8.3
+2021-11-21 09:21:15,560:INFO:spacy==2.3.7
+2021-11-21 09:21:15,561:INFO:nltk==3.6.5
+2021-11-21 09:21:15,562:INFO:textblob==0.17.1
+2021-11-21 09:21:15,565:INFO:pyLDAvis==3.2.2
+2021-11-21 09:21:15,568:INFO:wordcloud==1.8.1
+2021-11-21 09:21:15,570:INFO:mlflow==1.21.0
+2021-11-21 09:21:15,576:INFO:Checking Exceptions
+2021-11-21 09:21:38,140:INFO:PyCaret NLP Module
+2021-11-21 09:21:38,141:INFO:version 2.3.5
+2021-11-21 09:21:38,142:INFO:Initializing setup()
+2021-11-21 09:21:38,143:INFO:USI: cafc
+2021-11-21 09:21:38,144:INFO:setup(data=(1000, 7), target=en, custom_stopwords=None, html=True, session_id=123, log_experiment=False,
+                    experiment_name=None, log_plots=False, log_data=False, verbose=True)
+2021-11-21 09:21:38,145:INFO:Checking environment
+2021-11-21 09:21:38,145:INFO:python_version: 3.8.12
+2021-11-21 09:21:38,146:INFO:python_build: ('default', 'Oct 12 2021 06:23:56')
+2021-11-21 09:21:38,148:INFO:machine: x86_64
+2021-11-21 09:21:38,149:INFO:platform: macOS-10.16-x86_64-i386-64bit
+2021-11-21 09:21:38,149:INFO:Memory: svmem(total=17179869184, available=6688149504, percent=61.1, used=9790029824, free=303886336, active=6344871936, inactive=6271664128, wired=3445157888)
+2021-11-21 09:21:38,150:INFO:Physical Core: 4
+2021-11-21 09:21:38,152:INFO:Logical Core: 8
+2021-11-21 09:21:38,155:INFO:Checking libraries
+2021-11-21 09:21:38,156:INFO:pd==1.3.4
+2021-11-21 09:21:38,157:INFO:numpy==1.21.2
+2021-11-21 09:21:38,159:INFO:gensim==3.8.3
+2021-11-21 09:21:38,160:INFO:spacy==2.3.7
+2021-11-21 09:21:38,161:INFO:nltk==3.6.5
+2021-11-21 09:21:38,162:INFO:textblob==0.17.1
+2021-11-21 09:21:38,163:INFO:pyLDAvis==3.2.2
+2021-11-21 09:21:38,164:INFO:wordcloud==1.8.1
+2021-11-21 09:21:38,165:INFO:mlflow==1.21.0
+2021-11-21 09:21:38,166:INFO:Checking Exceptions
+2021-11-21 09:22:01,467:INFO:PyCaret NLP Module
+2021-11-21 09:22:01,468:INFO:version 2.3.5
+2021-11-21 09:22:01,468:INFO:Initializing setup()
+2021-11-21 09:22:01,469:INFO:USI: 2016
+2021-11-21 09:22:01,470:INFO:setup(data=(1000, 7), target=en, custom_stopwords=None, html=True, session_id=123, log_experiment=False,
+                    experiment_name=None, log_plots=False, log_data=False, verbose=True)
+2021-11-21 09:22:01,470:INFO:Checking environment
+2021-11-21 09:22:01,471:INFO:python_version: 3.8.12
+2021-11-21 09:22:01,471:INFO:python_build: ('default', 'Oct 12 2021 06:23:56')
+2021-11-21 09:22:01,472:INFO:machine: x86_64
+2021-11-21 09:22:01,473:INFO:platform: macOS-10.16-x86_64-i386-64bit
+2021-11-21 09:22:01,474:INFO:Memory: svmem(total=17179869184, available=6729097216, percent=60.8, used=9750659072, free=93171712, active=6554910720, inactive=6542704640, wired=3195748352)
+2021-11-21 09:22:01,475:INFO:Physical Core: 4
+2021-11-21 09:22:01,475:INFO:Logical Core: 8
+2021-11-21 09:22:01,476:INFO:Checking libraries
+2021-11-21 09:22:01,477:INFO:pd==1.3.4
+2021-11-21 09:22:01,478:INFO:numpy==1.21.2
+2021-11-21 09:22:01,479:INFO:gensim==3.8.3
+2021-11-21 09:22:01,479:INFO:spacy==2.3.7
+2021-11-21 09:22:01,480:INFO:nltk==3.6.5
+2021-11-21 09:22:01,482:INFO:textblob==0.17.1
+2021-11-21 09:22:01,484:INFO:pyLDAvis==3.2.2
+2021-11-21 09:22:01,486:INFO:wordcloud==1.8.1
+2021-11-21 09:22:01,487:INFO:mlflow==1.21.0
+2021-11-21 09:22:01,488:INFO:Checking Exceptions
+2021-11-21 09:22:43,741:INFO:PyCaret NLP Module
+2021-11-21 09:22:43,743:INFO:version 2.3.5
+2021-11-21 09:22:43,744:INFO:Initializing setup()
+2021-11-21 09:22:43,745:INFO:USI: cfce
+2021-11-21 09:22:43,746:INFO:setup(data=(1000, 7), target=en, custom_stopwords=None, html=True, session_id=123, log_experiment=False,
+                    experiment_name=None, log_plots=False, log_data=False, verbose=True)
+2021-11-21 09:22:43,747:INFO:Checking environment
+2021-11-21 09:22:43,748:INFO:python_version: 3.8.12
+2021-11-21 09:22:43,749:INFO:python_build: ('default', 'Oct 12 2021 06:23:56')
+2021-11-21 09:22:43,750:INFO:machine: x86_64
+2021-11-21 09:22:43,751:INFO:platform: macOS-10.16-x86_64-i386-64bit
+2021-11-21 09:22:43,752:INFO:Memory: svmem(total=17179869184, available=6865436672, percent=60.0, used=9613197312, free=298565632, active=6486667264, inactive=6497939456, wired=3126530048)
+2021-11-21 09:22:43,753:INFO:Physical Core: 4
+2021-11-21 09:22:43,754:INFO:Logical Core: 8
+2021-11-21 09:22:43,755:INFO:Checking libraries
+2021-11-21 09:22:43,756:INFO:pd==1.3.4
+2021-11-21 09:22:43,758:INFO:numpy==1.21.2
+2021-11-21 09:22:43,759:INFO:gensim==3.8.3
+2021-11-21 09:22:43,760:INFO:spacy==2.3.7
+2021-11-21 09:22:43,762:INFO:nltk==3.6.5
+2021-11-21 09:22:43,763:INFO:textblob==0.17.1
+2021-11-21 09:22:43,765:INFO:pyLDAvis==3.2.2
+2021-11-21 09:22:43,767:INFO:wordcloud==1.8.1
+2021-11-21 09:22:43,768:INFO:mlflow==1.21.0
+2021-11-21 09:22:43,770:INFO:Checking Exceptions
